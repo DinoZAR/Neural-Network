@@ -3,7 +3,7 @@ import random
 import json
 
 NUM_TESTS = 1000
-TEST_FILE = 'tests.csv'
+TEST_FILE = 'tests.txt'
 
 
 def function(inputs):
@@ -28,7 +28,7 @@ def save_test(inputs, outputs, f):
 		'inputs': inputs,
 		'outputs': outputs
 	}
-	f.write(json.dumps(stuff) + ';')
+	f.write(json.dumps(stuff) + '\n')
 
 if __name__ == '__main__':
 
@@ -38,7 +38,7 @@ if __name__ == '__main__':
 			val2 = random.choice([True, False])
 			inputs = [0.9 if val1 else 0.1, 0.9 if val2 else 0.1]
 
-			outputs = function(inputs)
+			outputs = function([val1, val2])
 
 			save_test(inputs, outputs, f)
 

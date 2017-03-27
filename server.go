@@ -1,73 +1,57 @@
 package main
 
 import (
+	"bufio"
+	"encoding/json"
 	"fmt"
-	"sync"
+	"math/rand"
+	"os"
 )
 
-func (network *Network) BackPropagate(learningRate float64) {
-
-	network.FlushTempData()
-
-	nodeChan := make(chan int, 10000)
-	inputChan := make(chan AggregateInputJob, 5)
-	var waitGroup sync.WaitGroup
-
-	// Start the back propagate by sending 1 as the partial derivative to the cost node
-	inputChan <- AggregateInputJob{
-		nodeToAddInput: network.costNodeID,
-		input:          1.0,
-		inputFromID:    -1,
-	}
-	waitGroup.Add(1)
-
-	// Process node jobs
-	go ProcessBackpropagateNodes(network, learningRate, &waitGroup, nodeChan, inputChan)
-	go ProcessBackpropagateNodes(network, learningRate, &waitGroup, nodeChan, inputChan)
-
-	// Aggregate input jobs
-	go ProcessAggregateInputJobs(network, &waitGroup, nodeChan, inputChan, false)
-	go ProcessAggregateInputJobs(network, &waitGroup, nodeChan, inputChan, false)
-
-	waitGroup.Wait()
-	close(nodeChan)
-	close(inputChan)
+type TrainTest struct {
+	Inputs  []float64 `json: inputs`
+	Outputs []float64 `json: outputs`
 }
 
-func ProcessBackpropagateNodes(network *Network, learningRate float64, waitGroup *sync.WaitGroup, nodeChan chan int, inputChan chan AggregateInputJob) {
-	for job := range nodeChan {
-		node := network.Node(job)
+func LoadTrainingSet(file string) []*TrainTest {
+	trainTests := make([]*TrainTest, 0)
 
-		// Process the node
-		node.lock.Lock()
-		var output float64
-		sumPartials := SumInputs(node.inputVals)
-		if len(node.inputs) > 0 {
-			waitGroup.Add(len(node.inputs))
-			for _, nodeID := range node.inputs {
-				output = node.node.BackPropagate(sumPartials, learningRate, nodeID)
-				//fmt.Printf("%v) sumPartials: %v, output: %v\n", job, sumPartials, output)
-				inputChan <- AggregateInputJob{
-					nodeToAddInput: nodeID,
-					input:          output,
-					inputFromID:    job,
-				}
-			}
-		} else {
-			//fmt.Printf("%v) sumPartials: %v  ---- END\n", job, sumPartials)
-			output = node.node.BackPropagate(sumPartials, learningRate, -1)
+	f, err := os.Open("tests.txt")
+	if err != nil {
+		fmt.Printf("Error loading tests file: %v", err)
+		return nil
+	} else {
+		scn := bufio.NewScanner(f)
+		for scn.Scan() {
+			test := &TrainTest{}
+			json.Unmarshal([]byte(scn.Text()), test)
+			trainTests = append(trainTests, test)
+		}
+	}
+	f.Close()
+
+	return trainTests
+}
+
+func Train(network *Network, testFile string, learningRate float64, epochs int) {
+
+	trainingSet := LoadTrainingSet(testFile)
+
+	for e := 0; e < epochs; e++ {
+
+		// Shuffle my training inputs
+		for i := range trainingSet {
+			j := rand.Intn(i + 1)
+			trainingSet[i], trainingSet[j] = trainingSet[j], trainingSet[i]
 		}
 
-		node.lock.Unlock()
-		waitGroup.Done()
+		// Actually train it
+		for _, test := range trainingSet {
+			network.SetTargetOutputs(test.Outputs)
+			network.Process(test.Inputs)
+			network.BackPropagate(learningRate)
+		}
 	}
-}
-
-func SumInputs(inputs map[int]float64) (result float64) {
-	for _, val := range inputs {
-		result += val
-	}
-	return
 }
 
 /**
@@ -76,27 +60,9 @@ func SumInputs(inputs map[int]float64) (result float64) {
 func main() {
 
 	// Create the network
-	network := CreateNetwork(5, 2, []int{10})
+	network := CreateNetwork(2, 2, []int{10})
 
-	fmt.Println("Processing the network...")
-
-	for i := 0; i < 1000; i++ {
-		network.SetTargetOutputs([]float64{0.9, 0.3})
-		network.Process([]float64{1, 0, 0, 1, 1})
-
-		//fmt.Printf("Cost: %v\n", network.Output(network.costNodeID))
-
-		network.BackPropagate(0.2)
-	}
-
-	network.SetTargetOutputs([]float64{0.9, 0.3})
-	network.Process([]float64{1, 0, 0, 1, 1})
-
-	fmt.Printf("\nFinal Success Rate: %v\n", (1.0-network.Output(network.costNodeID))*100.0)
-	fmt.Println("Outputs:")
-	for i := 0; i < network.outputs; i++ {
-		fmt.Printf("%v -> %v\n", i, network.Output(network.OutputNodeID(i)))
-	}
+	Train(network, "tests.txt", 0.01, 20)
 
 	fmt.Println("Done!")
 }
