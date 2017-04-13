@@ -51,7 +51,7 @@ func (n *CostNode) FeedForward(inputs map[int]float64) (output float64) {
 }
 
 func (n *CostNode) BackPropagate(partialSum float64, learningRate float64, inputNodeID int) (outputPartial float64) {
-	return CostInputPartial(n.targetOutputs[inputNodeID], n.actualOutputs[inputNodeID])
+	return CostInputPartial(n.targetOutputs[inputNodeID], n.actualOutputs[inputNodeID]) * partialSum
 }
 
 /*

@@ -1,1000 +1,1000 @@
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.1, 0.9], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.1, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.1], "outputs": [0.1, 0.9]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
-{"inputs": [0.9, 0.9], "outputs": [0.9, 0.1]}
+{"inputs": [0.0], "outputs": [0.0]}
+{"inputs": [0.006283185307179587], "outputs": [0.006283143965558951]}
+{"inputs": [0.012566370614359173], "outputs": [0.012566039883352607]}
+{"inputs": [0.01884955592153876], "outputs": [0.018848439715408175]}
+{"inputs": [0.025132741228718346], "outputs": [0.02513009544333748]}
+{"inputs": [0.031415926535897934], "outputs": [0.03141075907812829]}
+{"inputs": [0.03769911184307752], "outputs": [0.03769018266993454]}
+{"inputs": [0.0439822971502571], "outputs": [0.0439681183178649]}
+{"inputs": [0.05026548245743669], "outputs": [0.050244318179769556]}
+{"inputs": [0.05654866776461627], "outputs": [0.05651853448202452]}
+{"inputs": [0.06283185307179587], "outputs": [0.06279051952931337]}
+{"inputs": [0.06911503837897544], "outputs": [0.06906002571440578]}
+{"inputs": [0.07539822368615504], "outputs": [0.07532680552793272]}
+{"inputs": [0.08168140899333462], "outputs": [0.08159061156815754]}
+{"inputs": [0.0879645943005142], "outputs": [0.08785119655074317]}
+{"inputs": [0.09424777960769379], "outputs": [0.09410831331851431]}
+{"inputs": [0.10053096491487339], "outputs": [0.1003617148512149]}
+{"inputs": [0.10681415022205297], "outputs": [0.10661115427525991]}
+{"inputs": [0.11309733552923254], "outputs": [0.11285638487348167]}
+{"inputs": [0.11938052083641214], "outputs": [0.11909716009486973]}
+{"inputs": [0.12566370614359174], "outputs": [0.12533323356430426]}
+{"inputs": [0.13194689145077132], "outputs": [0.1315643590922825]}
+{"inputs": [0.13823007675795088], "outputs": [0.13779029068463805]}
+{"inputs": [0.1445132620651305], "outputs": [0.14401078255225216]}
+{"inputs": [0.15079644737231007], "outputs": [0.15022558912075706]}
+{"inputs": [0.15707963267948966], "outputs": [0.15643446504023087]}
+{"inputs": [0.16336281798666924], "outputs": [0.16263716519488358]}
+{"inputs": [0.16964600329384882], "outputs": [0.16883344471273387]}
+{"inputs": [0.1759291886010284], "outputs": [0.17502305897527604]}
+{"inputs": [0.18221237390820802], "outputs": [0.18120576362713736]}
+{"inputs": [0.18849555921538758], "outputs": [0.1873813145857246]}
+{"inputs": [0.19477874452256716], "outputs": [0.19354946805086023]}
+{"inputs": [0.20106192982974677], "outputs": [0.19970998051440703]}
+{"inputs": [0.20734511513692636], "outputs": [0.20586260876988133]}
+{"inputs": [0.21362830044410594], "outputs": [0.21200710992205463]}
+{"inputs": [0.21991148575128555], "outputs": [0.21814324139654256]}
+{"inputs": [0.22619467105846508], "outputs": [0.22427076094938114]}
+{"inputs": [0.2324778563656447], "outputs": [0.23038942667659057]}
+{"inputs": [0.23876104167282428], "outputs": [0.23649899702372468]}
+{"inputs": [0.24504422698000386], "outputs": [0.2425992307954074]}
+{"inputs": [0.25132741228718347], "outputs": [0.2486898871648548]}
+{"inputs": [0.25761059759436306], "outputs": [0.25477072568338216]}
+{"inputs": [0.26389378290154264], "outputs": [0.26084150628989694]}
+{"inputs": [0.27017696820872217], "outputs": [0.2669019893203755]}
+{"inputs": [0.27646015351590175], "outputs": [0.27295193551732516]}
+{"inputs": [0.2827433388230814], "outputs": [0.2789911060392293]}
+{"inputs": [0.289026524130261], "outputs": [0.2850192624699761]}
+{"inputs": [0.29530970943744056], "outputs": [0.2910361668282718]}
+{"inputs": [0.30159289474462014], "outputs": [0.2970415815770349]}
+{"inputs": [0.3078760800517997], "outputs": [0.30303526963277394]}
+{"inputs": [0.3141592653589793], "outputs": [0.3090169943749474]}
+{"inputs": [0.3204424506661589], "outputs": [0.3149865196553048]}
+{"inputs": [0.3267256359733385], "outputs": [0.3209436098072095]}
+{"inputs": [0.33300882128051806], "outputs": [0.32688802965494246]}
+{"inputs": [0.33929200658769765], "outputs": [0.3328195445229866]}
+{"inputs": [0.34557519189487723], "outputs": [0.33873792024529137]}
+{"inputs": [0.3518583772020568], "outputs": [0.34464292317451706]}
+{"inputs": [0.35814156250923646], "outputs": [0.350534320191259]}
+{"inputs": [0.36442474781641604], "outputs": [0.35641187871325075]}
+{"inputs": [0.37070793312359557], "outputs": [0.36227536670454563]}
+{"inputs": [0.37699111843077515], "outputs": [0.3681245526846779]}
+{"inputs": [0.38327430373795474], "outputs": [0.3739592057378004]}
+{"inputs": [0.3895574890451343], "outputs": [0.37977909552180106]}
+{"inputs": [0.39584067435231396], "outputs": [0.38558399227739654]}
+{"inputs": [0.40212385965949354], "outputs": [0.3913736668372024]}
+{"inputs": [0.4084070449666731], "outputs": [0.3971478906347806]}
+{"inputs": [0.4146902302738527], "outputs": [0.40290643571366264]}
+{"inputs": [0.4209734155810323], "outputs": [0.40864907473634904]}
+{"inputs": [0.4272566008882119], "outputs": [0.41437558099328414]}
+{"inputs": [0.43353978619539146], "outputs": [0.42008572841180625]}
+{"inputs": [0.4398229715025711], "outputs": [0.4257792915650727]}
+{"inputs": [0.4461061568097506], "outputs": [0.4314560456809589]}
+{"inputs": [0.45238934211693016], "outputs": [0.4371157666509328]}
+{"inputs": [0.45867252742410974], "outputs": [0.44275823103890144]}
+{"inputs": [0.4649557127312894], "outputs": [0.44838321609003223]}
+{"inputs": [0.47123889803846897], "outputs": [0.45399049973954675]}
+{"inputs": [0.47752208334564855], "outputs": [0.4595798606214878]}
+{"inputs": [0.48380526865282814], "outputs": [0.4651510780774583]}
+{"inputs": [0.4900884539600077], "outputs": [0.4707039321653325]}
+{"inputs": [0.4963716392671873], "outputs": [0.47623820366793906]}
+{"inputs": [0.5026548245743669], "outputs": [0.4817536741017153]}
+{"inputs": [0.5089380098815465], "outputs": [0.4872501257253323]}
+{"inputs": [0.5152211951887261], "outputs": [0.49272734154829156]}
+{"inputs": [0.5215043804959056], "outputs": [0.4981851053394908]}
+{"inputs": [0.5277875658030853], "outputs": [0.5036232016357608]}
+{"inputs": [0.5340707511102649], "outputs": [0.5090414157503713]}
+{"inputs": [0.5403539364174443], "outputs": [0.5144395337815063]}
+{"inputs": [0.546637121724624], "outputs": [0.5198173426207094]}
+{"inputs": [0.5529203070318035], "outputs": [0.5251746299612956]}
+{"inputs": [0.5592034923389831], "outputs": [0.530511184306734]}
+{"inputs": [0.5654866776461628], "outputs": [0.5358267949789967]}
+{"inputs": [0.5717698629533423], "outputs": [0.5411212521268758]}
+{"inputs": [0.578053048260522], "outputs": [0.5463943467342691]}
+{"inputs": [0.5843362335677015], "outputs": [0.5516458706284302]}
+{"inputs": [0.5906194188748811], "outputs": [0.556875616488188]}
+{"inputs": [0.5969026041820606], "outputs": [0.5620833778521306]}
+{"inputs": [0.6031857894892403], "outputs": [0.5672689491267565]}
+{"inputs": [0.6094689747964199], "outputs": [0.5724321255945909]}
+{"inputs": [0.6157521601035995], "outputs": [0.5775727034222675]}
+{"inputs": [0.6220353454107791], "outputs": [0.5826904796685761]}
+{"inputs": [0.6283185307179586], "outputs": [0.5877852522924731]}
+{"inputs": [0.6346017160251383], "outputs": [0.5928568201610592]}
+{"inputs": [0.6408849013323178], "outputs": [0.5979049830575188]}
+{"inputs": [0.6471680866394973], "outputs": [0.6029295416890247]}
+{"inputs": [0.653451271946677], "outputs": [0.6079302976946054]}
+{"inputs": [0.6597344572538565], "outputs": [0.6129070536529764]}
+{"inputs": [0.6660176425610361], "outputs": [0.6178596130903343]}
+{"inputs": [0.6723008278682158], "outputs": [0.6227877804881126]}
+{"inputs": [0.6785840131753953], "outputs": [0.6276913612907005]}
+{"inputs": [0.6848671984825749], "outputs": [0.6325701619131244]}
+{"inputs": [0.6911503837897545], "outputs": [0.6374239897486896]}
+{"inputs": [0.6974335690969341], "outputs": [0.6422526531765844]}
+{"inputs": [0.7037167544041136], "outputs": [0.6470559615694442]}
+{"inputs": [0.7099999397112933], "outputs": [0.6518337253008788]}
+{"inputs": [0.7162831250184729], "outputs": [0.6565857557529565]}
+{"inputs": [0.7225663103256524], "outputs": [0.6613118653236518]}
+{"inputs": [0.7288494956328321], "outputs": [0.6660118674342517]}
+{"inputs": [0.7351326809400116], "outputs": [0.67068557653672]}
+{"inputs": [0.7414158662471911], "outputs": [0.6753328081210244]}
+{"inputs": [0.7476990515543708], "outputs": [0.6799533787224191]}
+{"inputs": [0.7539822368615503], "outputs": [0.6845471059286886]}
+{"inputs": [0.7602654221687299], "outputs": [0.6891138083873485]}
+{"inputs": [0.7665486074759095], "outputs": [0.6936533058128049]}
+{"inputs": [0.7728317927830891], "outputs": [0.6981654189934726]}
+{"inputs": [0.7791149780902686], "outputs": [0.7026499697988492]}
+{"inputs": [0.7853981633974483], "outputs": [0.7071067811865476]}
+{"inputs": [0.7916813487046279], "outputs": [0.7115356772092853]}
+{"inputs": [0.7979645340118074], "outputs": [0.7159364830218311]}
+{"inputs": [0.8042477193189871], "outputs": [0.7203090248879069]}
+{"inputs": [0.8105309046261666], "outputs": [0.7246531301870466]}
+{"inputs": [0.8168140899333463], "outputs": [0.7289686274214116]}
+{"inputs": [0.8230972752405258], "outputs": [0.7332553462225601]}
+{"inputs": [0.8293804605477054], "outputs": [0.7375131173581739]}
+{"inputs": [0.8356636458548851], "outputs": [0.7417417727387392]}
+{"inputs": [0.8419468311620646], "outputs": [0.7459411454241821]}
+{"inputs": [0.8482300164692442], "outputs": [0.7501110696304596]}
+{"inputs": [0.8545132017764238], "outputs": [0.7542513807361038]}
+{"inputs": [0.8607963870836034], "outputs": [0.7583619152887219]}
+{"inputs": [0.8670795723907829], "outputs": [0.7624425110114479]}
+{"inputs": [0.8733627576979626], "outputs": [0.7664930068093498]}
+{"inputs": [0.8796459430051422], "outputs": [0.7705132427757893]}
+{"inputs": [0.8859291283123216], "outputs": [0.7745030601987338]}
+{"inputs": [0.8922123136195012], "outputs": [0.7784623015670233]}
+{"inputs": [0.8984954989266808], "outputs": [0.7823908105765881]}
+{"inputs": [0.9047786842338603], "outputs": [0.7862884321366188]}
+{"inputs": [0.91106186954104], "outputs": [0.7901550123756903]}
+{"inputs": [0.9173450548482195], "outputs": [0.7939903986478353]}
+{"inputs": [0.9236282401553991], "outputs": [0.797794439538571]}
+{"inputs": [0.9299114254625788], "outputs": [0.8015669848708765]}
+{"inputs": [0.9361946107697583], "outputs": [0.8053078857111219]}
+{"inputs": [0.9424777960769379], "outputs": [0.8090169943749475]}
+{"inputs": [0.9487609813841175], "outputs": [0.812694164433094]}
+{"inputs": [0.9550441666912971], "outputs": [0.8163392507171839]}
+{"inputs": [0.9613273519984766], "outputs": [0.8199521093254523]}
+{"inputs": [0.9676105373056563], "outputs": [0.8235325976284275]}
+{"inputs": [0.9738937226128359], "outputs": [0.8270805742745618]}
+{"inputs": [0.9801769079200154], "outputs": [0.8305958991958126]}
+{"inputs": [0.9864600932271951], "outputs": [0.8340784336131711]}
+{"inputs": [0.9927432785343746], "outputs": [0.8375280400421417]}
+{"inputs": [0.9990264638415542], "outputs": [0.840944582298169]}
+{"inputs": [1.0053096491487339], "outputs": [0.8443279255020151]}
+{"inputs": [1.0115928344559133], "outputs": [0.8476779360850831]}
+{"inputs": [1.017876019763093], "outputs": [0.8509944817946918]}
+{"inputs": [1.0241592050702726], "outputs": [0.8542774316992952]}
+{"inputs": [1.0304423903774522], "outputs": [0.8575266561936523]}
+{"inputs": [1.0367255756846319], "outputs": [0.8607420270039436]}
+{"inputs": [1.0430087609918113], "outputs": [0.8639234171928353]}
+{"inputs": [1.049291946298991], "outputs": [0.86707070116449]}
+{"inputs": [1.0555751316061706], "outputs": [0.8701837546695257]}
+{"inputs": [1.0618583169133502], "outputs": [0.8732624548099202]}
+{"inputs": [1.0681415022205298], "outputs": [0.8763066800438637]}
+{"inputs": [1.0744246875277093], "outputs": [0.8793163101905562]}
+{"inputs": [1.0807078728348887], "outputs": [0.8822912264349532]}
+{"inputs": [1.0869910581420683], "outputs": [0.8852313113324551]}
+{"inputs": [1.093274243449248], "outputs": [0.8881364488135445]}
+{"inputs": [1.0995574287564276], "outputs": [0.8910065241883678]}
+{"inputs": [1.105840614063607], "outputs": [0.8938414241512637]}
+{"inputs": [1.1121237993707866], "outputs": [0.8966410367852358]}
+{"inputs": [1.1184069846779663], "outputs": [0.899405251566371]}
+{"inputs": [1.124690169985146], "outputs": [0.9021339593682028]}
+{"inputs": [1.1309733552923256], "outputs": [0.9048270524660196]}
+{"inputs": [1.137256540599505], "outputs": [0.9074844245411169]}
+{"inputs": [1.1435397259066846], "outputs": [0.9101059706849957]}
+{"inputs": [1.1498229112138643], "outputs": [0.9126915874035028]}
+{"inputs": [1.156106096521044], "outputs": [0.9152411726209175]}
+{"inputs": [1.1623892818282235], "outputs": [0.9177546256839811]}
+{"inputs": [1.168672467135403], "outputs": [0.9202318473658703]}
+{"inputs": [1.1749556524425826], "outputs": [0.9226727398701148]}
+{"inputs": [1.1812388377497622], "outputs": [0.925077206834458]}
+{"inputs": [1.1875220230569419], "outputs": [0.9274451533346614]}
+{"inputs": [1.1938052083641213], "outputs": [0.9297764858882513]}
+{"inputs": [1.200088393671301], "outputs": [0.932071112458211]}
+{"inputs": [1.2063715789784806], "outputs": [0.934328942456612]}
+{"inputs": [1.2126547642856602], "outputs": [0.9365498867481924]}
+{"inputs": [1.2189379495928399], "outputs": [0.9387338576538741]}
+{"inputs": [1.2252211349000193], "outputs": [0.9408807689542255]}
+{"inputs": [1.231504320207199], "outputs": [0.9429905358928644]}
+{"inputs": [1.2377875055143785], "outputs": [0.9450630751798048]}
+{"inputs": [1.2440706908215582], "outputs": [0.9470983049947443]}
+{"inputs": [1.2503538761287378], "outputs": [0.9490961449902946]}
+{"inputs": [1.2566370614359172], "outputs": [0.9510565162951535]}
+{"inputs": [1.2629202467430969], "outputs": [0.9529793415172189]}
+{"inputs": [1.2692034320502765], "outputs": [0.954864544746643]}
+{"inputs": [1.2754866173574562], "outputs": [0.9567120515588305]}
+{"inputs": [1.2817698026646356], "outputs": [0.9585217890173758]}
+{"inputs": [1.288052987971815], "outputs": [0.960293685676943]}
+{"inputs": [1.2943361732789946], "outputs": [0.9620276715860858]}
+{"inputs": [1.3006193585861743], "outputs": [0.9637236782900097]}
+{"inputs": [1.306902543893354], "outputs": [0.9653816388332739]}
+{"inputs": [1.3131857292005336], "outputs": [0.967001487762435]}
+{"inputs": [1.319468914507713], "outputs": [0.9685831611286311]}
+{"inputs": [1.3257520998148926], "outputs": [0.9701265964901058]}
+{"inputs": [1.3320352851220723], "outputs": [0.9716317329146739]}
+{"inputs": [1.338318470429252], "outputs": [0.9730985109821265]}
+{"inputs": [1.3446016557364315], "outputs": [0.9745268727865771]}
+{"inputs": [1.350884841043611], "outputs": [0.9759167619387473]}
+{"inputs": [1.3571680263507906], "outputs": [0.9772681235681935]}
+{"inputs": [1.3634512116579702], "outputs": [0.9785809043254721]}
+{"inputs": [1.3697343969651499], "outputs": [0.9798550523842469]}
+{"inputs": [1.3760175822723293], "outputs": [0.9810905174433341]}
+{"inputs": [1.382300767579509], "outputs": [0.9822872507286886]}
+{"inputs": [1.3885839528866886], "outputs": [0.9834452049953297]}
+{"inputs": [1.3948671381938682], "outputs": [0.9845643345292053]}
+{"inputs": [1.4011503235010478], "outputs": [0.985644595148998]}
+{"inputs": [1.4074335088082273], "outputs": [0.986685944207868]}
+{"inputs": [1.413716694115407], "outputs": [0.9876883405951378]}
+{"inputs": [1.4199998794225865], "outputs": [0.9886517447379141]}
+{"inputs": [1.4262830647297662], "outputs": [0.9895761186026509]}
+{"inputs": [1.4325662500369458], "outputs": [0.9904614256966512]}
+{"inputs": [1.4388494353441252], "outputs": [0.9913076310695066]}
+{"inputs": [1.4451326206513049], "outputs": [0.9921147013144779]}
+{"inputs": [1.4514158059584845], "outputs": [0.9928826045698137]}
+{"inputs": [1.4576989912656642], "outputs": [0.9936113105200084]}
+{"inputs": [1.4639821765728436], "outputs": [0.9943007903969989]}
+{"inputs": [1.4702653618800232], "outputs": [0.9949510169813002]}
+{"inputs": [1.4765485471872026], "outputs": [0.99556196460308]}
+{"inputs": [1.4828317324943823], "outputs": [0.9961336091431725]}
+{"inputs": [1.489114917801562], "outputs": [0.9966659280340299]}
+{"inputs": [1.4953981031087415], "outputs": [0.9971589002606139]}
+{"inputs": [1.501681288415921], "outputs": [0.9976125063612252]}
+{"inputs": [1.5079644737231006], "outputs": [0.9980267284282716]}
+{"inputs": [1.5142476590302802], "outputs": [0.998401550108975]}
+{"inputs": [1.5205308443374599], "outputs": [0.9987369566060175]}
+{"inputs": [1.5268140296446395], "outputs": [0.9990329346781247]}
+{"inputs": [1.533097214951819], "outputs": [0.9992894726405892]}
+{"inputs": [1.5393804002589986], "outputs": [0.9995065603657316]}
+{"inputs": [1.5456635855661782], "outputs": [0.9996841892832999]}
+{"inputs": [1.5519467708733579], "outputs": [0.999822352380809]}
+{"inputs": [1.5582299561805373], "outputs": [0.9999210442038161]}
+{"inputs": [1.564513141487717], "outputs": [0.9999802608561371]}
+{"inputs": [1.5707963267948966], "outputs": [1.0]}
+{"inputs": [1.5770795121020762], "outputs": [0.9999802608561371]}
+{"inputs": [1.5833626974092558], "outputs": [0.9999210442038161]}
+{"inputs": [1.5896458827164353], "outputs": [0.999822352380809]}
+{"inputs": [1.595929068023615], "outputs": [0.9996841892832999]}
+{"inputs": [1.6022122533307945], "outputs": [0.9995065603657316]}
+{"inputs": [1.6084954386379742], "outputs": [0.9992894726405892]}
+{"inputs": [1.6147786239451536], "outputs": [0.9990329346781247]}
+{"inputs": [1.6210618092523332], "outputs": [0.9987369566060175]}
+{"inputs": [1.6273449945595129], "outputs": [0.998401550108975]}
+{"inputs": [1.6336281798666925], "outputs": [0.9980267284282716]}
+{"inputs": [1.6399113651738721], "outputs": [0.9976125063612252]}
+{"inputs": [1.6461945504810516], "outputs": [0.9971589002606139]}
+{"inputs": [1.6524777357882312], "outputs": [0.9966659280340299]}
+{"inputs": [1.6587609210954108], "outputs": [0.9961336091431725]}
+{"inputs": [1.6650441064025905], "outputs": [0.99556196460308]}
+{"inputs": [1.6713272917097701], "outputs": [0.9949510169813002]}
+{"inputs": [1.6776104770169495], "outputs": [0.9943007903969989]}
+{"inputs": [1.6838936623241292], "outputs": [0.9936113105200084]}
+{"inputs": [1.6901768476313088], "outputs": [0.9928826045698137]}
+{"inputs": [1.6964600329384885], "outputs": [0.9921147013144778]}
+{"inputs": [1.7027432182456679], "outputs": [0.9913076310695066]}
+{"inputs": [1.7090264035528475], "outputs": [0.9904614256966512]}
+{"inputs": [1.7153095888600272], "outputs": [0.9895761186026509]}
+{"inputs": [1.7215927741672068], "outputs": [0.988651744737914]}
+{"inputs": [1.7278759594743864], "outputs": [0.9876883405951377]}
+{"inputs": [1.7341591447815659], "outputs": [0.986685944207868]}
+{"inputs": [1.7404423300887455], "outputs": [0.985644595148998]}
+{"inputs": [1.7467255153959251], "outputs": [0.9845643345292053]}
+{"inputs": [1.7530087007031048], "outputs": [0.9834452049953296]}
+{"inputs": [1.7592918860102844], "outputs": [0.9822872507286886]}
+{"inputs": [1.7655750713174638], "outputs": [0.9810905174433341]}
+{"inputs": [1.7718582566246432], "outputs": [0.9798550523842469]}
+{"inputs": [1.7781414419318227], "outputs": [0.9785809043254722]}
+{"inputs": [1.7844246272390023], "outputs": [0.9772681235681935]}
+{"inputs": [1.790707812546182], "outputs": [0.9759167619387474]}
+{"inputs": [1.7969909978533616], "outputs": [0.9745268727865772]}
+{"inputs": [1.803274183160541], "outputs": [0.9730985109821266]}
+{"inputs": [1.8095573684677206], "outputs": [0.971631732914674]}
+{"inputs": [1.8158405537749003], "outputs": [0.9701265964901059]}
+{"inputs": [1.82212373908208], "outputs": [0.9685831611286312]}
+{"inputs": [1.8284069243892596], "outputs": [0.9670014877624351]}
+{"inputs": [1.834690109696439], "outputs": [0.965381638833274]}
+{"inputs": [1.8409732950036186], "outputs": [0.9637236782900097]}
+{"inputs": [1.8472564803107983], "outputs": [0.9620276715860859]}
+{"inputs": [1.853539665617978], "outputs": [0.9602936856769431]}
+{"inputs": [1.8598228509251575], "outputs": [0.958521789017376]}
+{"inputs": [1.866106036232337], "outputs": [0.9567120515588305]}
+{"inputs": [1.8723892215395166], "outputs": [0.9548645447466431]}
+{"inputs": [1.8786724068466962], "outputs": [0.9529793415172189]}
+{"inputs": [1.8849555921538759], "outputs": [0.9510565162951536]}
+{"inputs": [1.8912387774610553], "outputs": [0.9490961449902947]}
+{"inputs": [1.897521962768235], "outputs": [0.9470983049947443]}
+{"inputs": [1.9038051480754146], "outputs": [0.9450630751798049]}
+{"inputs": [1.9100883333825942], "outputs": [0.9429905358928645]}
+{"inputs": [1.9163715186897738], "outputs": [0.9408807689542255]}
+{"inputs": [1.9226547039969533], "outputs": [0.9387338576538742]}
+{"inputs": [1.928937889304133], "outputs": [0.9365498867481924]}
+{"inputs": [1.9352210746113125], "outputs": [0.9343289424566121]}
+{"inputs": [1.9415042599184922], "outputs": [0.932071112458211]}
+{"inputs": [1.9477874452256718], "outputs": [0.9297764858882515]}
+{"inputs": [1.9540706305328512], "outputs": [0.9274451533346614]}
+{"inputs": [1.9603538158400309], "outputs": [0.925077206834458]}
+{"inputs": [1.9666370011472105], "outputs": [0.9226727398701149]}
+{"inputs": [1.9729201864543902], "outputs": [0.9202318473658704]}
+{"inputs": [1.9792033717615696], "outputs": [0.9177546256839813]}
+{"inputs": [1.9854865570687492], "outputs": [0.9152411726209176]}
+{"inputs": [1.9917697423759289], "outputs": [0.9126915874035029]}
+{"inputs": [1.9980529276831085], "outputs": [0.9101059706849957]}
+{"inputs": [2.004336112990288], "outputs": [0.9074844245411169]}
+{"inputs": [2.0106192982974678], "outputs": [0.9048270524660195]}
+{"inputs": [2.0169024836046474], "outputs": [0.9021339593682027]}
+{"inputs": [2.0231856689118266], "outputs": [0.8994052515663712]}
+{"inputs": [2.0294688542190062], "outputs": [0.896641036785236]}
+{"inputs": [2.035752039526186], "outputs": [0.8938414241512639]}
+{"inputs": [2.0420352248333655], "outputs": [0.8910065241883679]}
+{"inputs": [2.048318410140545], "outputs": [0.8881364488135446]}
+{"inputs": [2.054601595447725], "outputs": [0.8852313113324553]}
+{"inputs": [2.0608847807549044], "outputs": [0.8822912264349533]}
+{"inputs": [2.067167966062084], "outputs": [0.8793163101905562]}
+{"inputs": [2.0734511513692637], "outputs": [0.8763066800438635]}
+{"inputs": [2.0797343366764434], "outputs": [0.87326245480992]}
+{"inputs": [2.0860175219836226], "outputs": [0.8701837546695257]}
+{"inputs": [2.092300707290802], "outputs": [0.8670707011644901]}
+{"inputs": [2.098583892597982], "outputs": [0.8639234171928354]}
+{"inputs": [2.1048670779051615], "outputs": [0.8607420270039436]}
+{"inputs": [2.111150263212341], "outputs": [0.8575266561936522]}
+{"inputs": [2.1174334485195208], "outputs": [0.8542774316992952]}
+{"inputs": [2.1237166338267004], "outputs": [0.8509944817946917]}
+{"inputs": [2.12999981913388], "outputs": [0.8476779360850831]}
+{"inputs": [2.1362830044410597], "outputs": [0.844327925502015]}
+{"inputs": [2.142566189748239], "outputs": [0.8409445822981692]}
+{"inputs": [2.1488493750554185], "outputs": [0.8375280400421418]}
+{"inputs": [2.155132560362598], "outputs": [0.8340784336131711]}
+{"inputs": [2.1614157456697773], "outputs": [0.8305958991958129]}
+{"inputs": [2.167698930976957], "outputs": [0.827080574274562]}
+{"inputs": [2.1739821162841366], "outputs": [0.8235325976284276]}
+{"inputs": [2.1802653015913163], "outputs": [0.8199521093254525]}
+{"inputs": [2.186548486898496], "outputs": [0.816339250717184]}
+{"inputs": [2.1928316722056755], "outputs": [0.8126941644330941]}
+{"inputs": [2.199114857512855], "outputs": [0.8090169943749475]}
+{"inputs": [2.205398042820035], "outputs": [0.805307885711122]}
+{"inputs": [2.211681228127214], "outputs": [0.8015669848708769]}
+{"inputs": [2.2179644134343937], "outputs": [0.7977944395385712]}
+{"inputs": [2.2242475987415733], "outputs": [0.7939903986478355]}
+{"inputs": [2.230530784048753], "outputs": [0.7901550123756905]}
+{"inputs": [2.2368139693559326], "outputs": [0.786288432136619]}
+{"inputs": [2.243097154663112], "outputs": [0.7823908105765882]}
+{"inputs": [2.249380339970292], "outputs": [0.7784623015670235]}
+{"inputs": [2.2556635252774715], "outputs": [0.7745030601987338]}
+{"inputs": [2.261946710584651], "outputs": [0.7705132427757893]}
+{"inputs": [2.2682298958918308], "outputs": [0.7664930068093498]}
+{"inputs": [2.27451308119901], "outputs": [0.7624425110114481]}
+{"inputs": [2.2807962665061896], "outputs": [0.758361915288722]}
+{"inputs": [2.2870794518133692], "outputs": [0.754251380736104]}
+{"inputs": [2.293362637120549], "outputs": [0.7501110696304596]}
+{"inputs": [2.2996458224277285], "outputs": [0.7459411454241822]}
+{"inputs": [2.305929007734908], "outputs": [0.7417417727387393]}
+{"inputs": [2.312212193042088], "outputs": [0.7375131173581739]}
+{"inputs": [2.3184953783492674], "outputs": [0.73325534622256]}
+{"inputs": [2.324778563656447], "outputs": [0.7289686274214114]}
+{"inputs": [2.3310617489636263], "outputs": [0.7246531301870468]}
+{"inputs": [2.337344934270806], "outputs": [0.720309024887907]}
+{"inputs": [2.3436281195779856], "outputs": [0.7159364830218313]}
+{"inputs": [2.349911304885165], "outputs": [0.7115356772092855]}
+{"inputs": [2.356194490192345], "outputs": [0.7071067811865476]}
+{"inputs": [2.3624776754995245], "outputs": [0.7026499697988492]}
+{"inputs": [2.368760860806704], "outputs": [0.6981654189934726]}
+{"inputs": [2.3750440461138838], "outputs": [0.6936533058128049]}
+{"inputs": [2.3813272314210634], "outputs": [0.6891138083873484]}
+{"inputs": [2.3876104167282426], "outputs": [0.6845471059286888]}
+{"inputs": [2.3938936020354222], "outputs": [0.6799533787224193]}
+{"inputs": [2.400176787342602], "outputs": [0.6753328081210246]}
+{"inputs": [2.4064599726497815], "outputs": [0.6706855765367201]}
+{"inputs": [2.412743157956961], "outputs": [0.6660118674342517]}
+{"inputs": [2.419026343264141], "outputs": [0.6613118653236518]}
+{"inputs": [2.4253095285713204], "outputs": [0.6565857557529564]}
+{"inputs": [2.4315927138785], "outputs": [0.6518337253008787]}
+{"inputs": [2.4378758991856797], "outputs": [0.6470559615694442]}
+{"inputs": [2.444159084492859], "outputs": [0.6422526531765845]}
+{"inputs": [2.4504422698000385], "outputs": [0.6374239897486899]}
+{"inputs": [2.456725455107218], "outputs": [0.6325701619131245]}
+{"inputs": [2.463008640414398], "outputs": [0.6276913612907006]}
+{"inputs": [2.4692918257215775], "outputs": [0.6227877804881126]}
+{"inputs": [2.475575011028757], "outputs": [0.6178596130903343]}
+{"inputs": [2.4818581963359367], "outputs": [0.6129070536529764]}
+{"inputs": [2.4881413816431164], "outputs": [0.6079302976946053]}
+{"inputs": [2.494424566950296], "outputs": [0.6029295416890246]}
+{"inputs": [2.5007077522574757], "outputs": [0.5979049830575187]}
+{"inputs": [2.506990937564655], "outputs": [0.5928568201610593]}
+{"inputs": [2.5132741228718345], "outputs": [0.5877852522924732]}
+{"inputs": [2.519557308179014], "outputs": [0.5826904796685761]}
+{"inputs": [2.5258404934861938], "outputs": [0.5775727034222676]}
+{"inputs": [2.5321236787933734], "outputs": [0.5724321255945908]}
+{"inputs": [2.538406864100553], "outputs": [0.5672689491267564]}
+{"inputs": [2.5446900494077327], "outputs": [0.5620833778521305]}
+{"inputs": [2.5509732347149123], "outputs": [0.5568756164881878]}
+{"inputs": [2.5572564200220915], "outputs": [0.5516458706284304]}
+{"inputs": [2.563539605329271], "outputs": [0.5463943467342692]}
+{"inputs": [2.569822790636451], "outputs": [0.5411212521268759]}
+{"inputs": [2.57610597594363], "outputs": [0.535826794978997]}
+{"inputs": [2.5823891612508096], "outputs": [0.5305111843067344]}
+{"inputs": [2.5886723465579893], "outputs": [0.525174629961296]}
+{"inputs": [2.594955531865169], "outputs": [0.5198173426207098]}
+{"inputs": [2.6012387171723486], "outputs": [0.5144395337815066]}
+{"inputs": [2.607521902479528], "outputs": [0.5090414157503714]}
+{"inputs": [2.613805087786708], "outputs": [0.5036232016357609]}
+{"inputs": [2.6200882730938875], "outputs": [0.4981851053394909]}
+{"inputs": [2.626371458401067], "outputs": [0.49272734154829156]}
+{"inputs": [2.6326546437082463], "outputs": [0.48725012572533266]}
+{"inputs": [2.638937829015426], "outputs": [0.4817536741017156]}
+{"inputs": [2.6452210143226056], "outputs": [0.4762382036679394]}
+{"inputs": [2.6515041996297852], "outputs": [0.4707039321653328]}
+{"inputs": [2.657787384936965], "outputs": [0.46515107807745854]}
+{"inputs": [2.6640705702441445], "outputs": [0.459579860621488]}
+{"inputs": [2.670353755551324], "outputs": [0.45399049973954686]}
+{"inputs": [2.676636940858504], "outputs": [0.4483832160900323]}
+{"inputs": [2.6829201261656834], "outputs": [0.44275823103890155]}
+{"inputs": [2.689203311472863], "outputs": [0.4371157666509329]}
+{"inputs": [2.6954864967800423], "outputs": [0.4314560456809593]}
+{"inputs": [2.701769682087222], "outputs": [0.4257792915650729]}
+{"inputs": [2.7080528673944015], "outputs": [0.42008572841180647]}
+{"inputs": [2.714336052701581], "outputs": [0.4143755809932843]}
+{"inputs": [2.720619238008761], "outputs": [0.40864907473634915]}
+{"inputs": [2.7269024233159405], "outputs": [0.40290643571366275]}
+{"inputs": [2.73318560862312], "outputs": [0.3971478906347806]}
+{"inputs": [2.7394687939302997], "outputs": [0.39137366683720237]}
+{"inputs": [2.7457519792374794], "outputs": [0.3855839922773965]}
+{"inputs": [2.7520351645446586], "outputs": [0.3797790955218014]}
+{"inputs": [2.758318349851838], "outputs": [0.37395920573780067]}
+{"inputs": [2.764601535159018], "outputs": [0.36812455268467814]}
+{"inputs": [2.7708847204661975], "outputs": [0.3622753667045458]}
+{"inputs": [2.777167905773377], "outputs": [0.3564118787132508]}
+{"inputs": [2.7834510910805568], "outputs": [0.350534320191259]}
+{"inputs": [2.7897342763877364], "outputs": [0.34464292317451706]}
+{"inputs": [2.796017461694916], "outputs": [0.3387379202452913]}
+{"inputs": [2.8023006470020957], "outputs": [0.3328195445229865]}
+{"inputs": [2.808583832309275], "outputs": [0.32688802965494274]}
+{"inputs": [2.8148670176164545], "outputs": [0.3209436098072097]}
+{"inputs": [2.821150202923634], "outputs": [0.31498651965530494]}
+{"inputs": [2.827433388230814], "outputs": [0.3090169943749475]}
+{"inputs": [2.8337165735379934], "outputs": [0.30303526963277405]}
+{"inputs": [2.839999758845173], "outputs": [0.2970415815770349]}
+{"inputs": [2.8462829441523527], "outputs": [0.29103616682827177]}
+{"inputs": [2.8525661294595324], "outputs": [0.28501926246997605]}
+{"inputs": [2.858849314766712], "outputs": [0.2789911060392291]}
+{"inputs": [2.8651325000738916], "outputs": [0.27295193551732505]}
+{"inputs": [2.871415685381071], "outputs": [0.26690198932037573]}
+{"inputs": [2.8776988706882505], "outputs": [0.26084150628989705]}
+{"inputs": [2.88398205599543], "outputs": [0.25477072568338227]}
+{"inputs": [2.8902652413026098], "outputs": [0.24868988716485482]}
+{"inputs": [2.8965484266097894], "outputs": [0.2425992307954074]}
+{"inputs": [2.902831611916969], "outputs": [0.2364989970237246]}
+{"inputs": [2.9091147972241487], "outputs": [0.23038942667659046]}
+{"inputs": [2.9153979825313283], "outputs": [0.224270760949381]}
+{"inputs": [2.921681167838508], "outputs": [0.21814324139654231]}
+{"inputs": [2.927964353145687], "outputs": [0.2120071099220548]}
+{"inputs": [2.934247538452867], "outputs": [0.2058626087698814]}
+{"inputs": [2.9405307237600464], "outputs": [0.19970998051440705]}
+{"inputs": [2.9468139090672256], "outputs": [0.19354946805086068]}
+{"inputs": [2.9530970943744053], "outputs": [0.18738131458572502]}
+{"inputs": [2.959380279681585], "outputs": [0.18120576362713767]}
+{"inputs": [2.9656634649887645], "outputs": [0.1750230589752763]}
+{"inputs": [2.971946650295944], "outputs": [0.1688334447127341]}
+{"inputs": [2.978229835603124], "outputs": [0.16263716519488378]}
+{"inputs": [2.9845130209103035], "outputs": [0.15643446504023098]}
+{"inputs": [2.990796206217483], "outputs": [0.15022558912075712]}
+{"inputs": [2.9970793915246623], "outputs": [0.1440107825522526]}
+{"inputs": [3.003362576831842], "outputs": [0.13779029068463847]}
+{"inputs": [3.0096457621390216], "outputs": [0.13156435909228284]}
+{"inputs": [3.015928947446201], "outputs": [0.12533323356430454]}
+{"inputs": [3.022212132753381], "outputs": [0.11909716009486998]}
+{"inputs": [3.0284953180605605], "outputs": [0.11285638487348187]}
+{"inputs": [3.03477850336774], "outputs": [0.10661115427526005]}
+{"inputs": [3.0410616886749198], "outputs": [0.10036171485121498]}
+{"inputs": [3.0473448739820994], "outputs": [0.09410831331851435]}
+{"inputs": [3.053628059289279], "outputs": [0.08785119655074315]}
+{"inputs": [3.0599112445964582], "outputs": [0.08159061156815792]}
+{"inputs": [3.066194429903638], "outputs": [0.07532680552793304]}
+{"inputs": [3.0724776152108175], "outputs": [0.06906002571440606]}
+{"inputs": [3.078760800517997], "outputs": [0.06279051952931358]}
+{"inputs": [3.085043985825177], "outputs": [0.05651853448202468]}
+{"inputs": [3.0913271711323564], "outputs": [0.05024431817976966]}
+{"inputs": [3.097610356439536], "outputs": [0.04396811831786495]}
+{"inputs": [3.1038935417467157], "outputs": [0.037690182669934534]}
+{"inputs": [3.1101767270538954], "outputs": [0.031410759078128236]}
+{"inputs": [3.1164599123610746], "outputs": [0.025130095443337813]}
+{"inputs": [3.122743097668254], "outputs": [0.01884843971540846]}
+{"inputs": [3.129026282975434], "outputs": [0.012566039883352836]}
+{"inputs": [3.1353094682826135], "outputs": [0.006283143965559127]}
+{"inputs": [3.141592653589793], "outputs": [1.2246467991473532e-16]}
+{"inputs": [3.1478758388969728], "outputs": [-0.006283143965558882]}
+{"inputs": [3.1541590242041524], "outputs": [-0.012566039883352592]}
+{"inputs": [3.160442209511332], "outputs": [-0.018848439715408213]}
+{"inputs": [3.1667253948185117], "outputs": [-0.02513009544333757]}
+{"inputs": [3.173008580125691], "outputs": [-0.031410759078127994]}
+{"inputs": [3.1792917654328705], "outputs": [-0.03769018266993429]}
+{"inputs": [3.18557495074005], "outputs": [-0.04396811831786471]}
+{"inputs": [3.19185813604723], "outputs": [-0.05024431817976942]}
+{"inputs": [3.1981413213544094], "outputs": [-0.056518534482024436]}
+{"inputs": [3.204424506661589], "outputs": [-0.06279051952931335]}
+{"inputs": [3.2107076919687687], "outputs": [-0.06906002571440581]}
+{"inputs": [3.2169908772759483], "outputs": [-0.07532680552793279]}
+{"inputs": [3.223274062583128], "outputs": [-0.08159061156815768]}
+{"inputs": [3.229557247890307], "outputs": [-0.0878511965507429]}
+{"inputs": [3.235840433197487], "outputs": [-0.0941083133185141]}
+{"inputs": [3.2421236185046665], "outputs": [-0.10036171485121473]}
+{"inputs": [3.248406803811846], "outputs": [-0.1066111542752598]}
+{"inputs": [3.2546899891190257], "outputs": [-0.11285638487348164]}
+{"inputs": [3.2609731744262054], "outputs": [-0.11909716009486973]}
+{"inputs": [3.267256359733385], "outputs": [-0.12533323356430429]}
+{"inputs": [3.2735395450405647], "outputs": [-0.13156435909228262]}
+{"inputs": [3.2798227303477443], "outputs": [-0.13779029068463822]}
+{"inputs": [3.286105915654924], "outputs": [-0.14401078255225236]}
+{"inputs": [3.292389100962103], "outputs": [-0.15022558912075687]}
+{"inputs": [3.2986722862692828], "outputs": [-0.15643446504023073]}
+{"inputs": [3.3049554715764624], "outputs": [-0.16263716519488353]}
+{"inputs": [3.311238656883642], "outputs": [-0.16883344471273384]}
+{"inputs": [3.3175218421908217], "outputs": [-0.1750230589752761]}
+{"inputs": [3.3238050274980013], "outputs": [-0.18120576362713745]}
+{"inputs": [3.330088212805181], "outputs": [-0.18738131458572477]}
+{"inputs": [3.3363713981123606], "outputs": [-0.19354946805086046]}
+{"inputs": [3.3426545834195402], "outputs": [-0.19970998051440725]}
+{"inputs": [3.3489377687267194], "outputs": [-0.2058626087698812]}
+{"inputs": [3.355220954033899], "outputs": [-0.21200710992205454]}
+{"inputs": [3.3615041393410787], "outputs": [-0.2181432413965425]}
+{"inputs": [3.3677873246482584], "outputs": [-0.2242707609493812]}
+{"inputs": [3.374070509955438], "outputs": [-0.23038942667659065]}
+{"inputs": [3.3803536952626176], "outputs": [-0.2364989970237248]}
+{"inputs": [3.3866368805697973], "outputs": [-0.2425992307954076]}
+{"inputs": [3.392920065876977], "outputs": [-0.24868988716485502]}
+{"inputs": [3.3992032511841566], "outputs": [-0.25477072568338244]}
+{"inputs": [3.4054864364913358], "outputs": [-0.26084150628989683]}
+{"inputs": [3.4117696217985154], "outputs": [-0.2669019893203755]}
+{"inputs": [3.418052807105695], "outputs": [-0.2729519355173252]}
+{"inputs": [3.4243359924128747], "outputs": [-0.2789911060392293]}
+{"inputs": [3.4306191777200543], "outputs": [-0.2850192624699762]}
+{"inputs": [3.436902363027234], "outputs": [-0.291036166828272]}
+{"inputs": [3.4431855483344136], "outputs": [-0.2970415815770351]}
+{"inputs": [3.4494687336415932], "outputs": [-0.3030352696327742]}
+{"inputs": [3.455751918948773], "outputs": [-0.30901699437494773]}
+{"inputs": [3.4620351042559525], "outputs": [-0.31498651965530516]}
+{"inputs": [3.4683182895631317], "outputs": [-0.3209436098072095]}
+{"inputs": [3.4746014748703113], "outputs": [-0.3268880296549425]}
+{"inputs": [3.480884660177491], "outputs": [-0.33281954452298673]}
+{"inputs": [3.4871678454846706], "outputs": [-0.3387379202452915]}
+{"inputs": [3.4934510307918503], "outputs": [-0.3446429231745172]}
+{"inputs": [3.49973421609903], "outputs": [-0.35053432019125924]}
+{"inputs": [3.5060174014062095], "outputs": [-0.356411878713251]}
+{"inputs": [3.512300586713389], "outputs": [-0.362275366704546]}
+{"inputs": [3.518583772020569], "outputs": [-0.3681245526846783]}
+{"inputs": [3.524866957327748], "outputs": [-0.37395920573780045]}
+{"inputs": [3.5311501426349277], "outputs": [-0.37977909552180117]}
+{"inputs": [3.537433327942107], "outputs": [-0.38558399227739626]}
+{"inputs": [3.5437165132492865], "outputs": [-0.39137366683720215]}
+{"inputs": [3.5499996985564657], "outputs": [-0.39714789063478]}
+{"inputs": [3.5562828838636453], "outputs": [-0.4029064357136621]}
+{"inputs": [3.562566069170825], "outputs": [-0.40864907473634854]}
+{"inputs": [3.5688492544780046], "outputs": [-0.41437558099328364]}
+{"inputs": [3.5751324397851842], "outputs": [-0.42008572841180586]}
+{"inputs": [3.581415625092364], "outputs": [-0.42577929156507227]}
+{"inputs": [3.5876988103995435], "outputs": [-0.43145604568095863]}
+{"inputs": [3.593981995706723], "outputs": [-0.43711576665093266]}
+{"inputs": [3.600265181013903], "outputs": [-0.44275823103890133]}
+{"inputs": [3.606548366321082], "outputs": [-0.4483832160900317]}
+{"inputs": [3.6128315516282616], "outputs": [-0.45399049973954625]}
+{"inputs": [3.6191147369354413], "outputs": [-0.45957986062148737]}
+{"inputs": [3.625397922242621], "outputs": [-0.4651510780774579]}
+{"inputs": [3.6316811075498006], "outputs": [-0.4707039321653322]}
+{"inputs": [3.63796429285698], "outputs": [-0.4762382036679388]}
+{"inputs": [3.64424747816416], "outputs": [-0.481753674101715]}
+{"inputs": [3.6505306634713395], "outputs": [-0.4872501257253321]}
+{"inputs": [3.656813848778519], "outputs": [-0.4927273415482914]}
+{"inputs": [3.6630970340856988], "outputs": [-0.4981851053394907]}
+{"inputs": [3.669380219392878], "outputs": [-0.5036232016357604]}
+{"inputs": [3.6756634047000576], "outputs": [-0.5090414157503709]}
+{"inputs": [3.6819465900072372], "outputs": [-0.5144395337815061]}
+{"inputs": [3.688229775314417], "outputs": [-0.5198173426207091]}
+{"inputs": [3.6945129606215965], "outputs": [-0.5251746299612954]}
+{"inputs": [3.700796145928776], "outputs": [-0.5305111843067338]}
+{"inputs": [3.707079331235956], "outputs": [-0.5358267949789964]}
+{"inputs": [3.7133625165431354], "outputs": [-0.5411212521268757]}
+{"inputs": [3.719645701850315], "outputs": [-0.546394346734269]}
+{"inputs": [3.7259288871574943], "outputs": [-0.5516458706284298]}
+{"inputs": [3.732212072464674], "outputs": [-0.5568756164881876]}
+{"inputs": [3.7384952577718535], "outputs": [-0.5620833778521303]}
+{"inputs": [3.744778443079033], "outputs": [-0.5672689491267562]}
+{"inputs": [3.751061628386213], "outputs": [-0.5724321255945907]}
+{"inputs": [3.7573448136933925], "outputs": [-0.5775727034222674]}
+{"inputs": [3.763627999000572], "outputs": [-0.5826904796685759]}
+{"inputs": [3.7699111843077517], "outputs": [-0.587785252292473]}
+{"inputs": [3.7761943696149314], "outputs": [-0.5928568201610591]}
+{"inputs": [3.7824775549221106], "outputs": [-0.5979049830575185]}
+{"inputs": [3.78876074022929], "outputs": [-0.6029295416890244]}
+{"inputs": [3.79504392553647], "outputs": [-0.607930297694605]}
+{"inputs": [3.8013271108436495], "outputs": [-0.6129070536529763]}
+{"inputs": [3.807610296150829], "outputs": [-0.6178596130903341]}
+{"inputs": [3.8138934814580088], "outputs": [-0.6227877804881123]}
+{"inputs": [3.8201766667651884], "outputs": [-0.6276913612907004]}
+{"inputs": [3.826459852072368], "outputs": [-0.6325701619131244]}
+{"inputs": [3.8327430373795477], "outputs": [-0.6374239897486896]}
+{"inputs": [3.8390262226867273], "outputs": [-0.6422526531765844]}
+{"inputs": [3.8453094079939065], "outputs": [-0.647055961569444]}
+{"inputs": [3.851592593301086], "outputs": [-0.6518337253008785]}
+{"inputs": [3.857875778608266], "outputs": [-0.6565857557529562]}
+{"inputs": [3.8641589639154454], "outputs": [-0.6613118653236517]}
+{"inputs": [3.870442149222625], "outputs": [-0.6660118674342514]}
+{"inputs": [3.8767253345298047], "outputs": [-0.6706855765367199]}
+{"inputs": [3.8830085198369844], "outputs": [-0.6753328081210244]}
+{"inputs": [3.889291705144164], "outputs": [-0.6799533787224191]}
+{"inputs": [3.8955748904513436], "outputs": [-0.6845471059286887]}
+{"inputs": [3.901858075758523], "outputs": [-0.6891138083873481]}
+{"inputs": [3.9081412610657025], "outputs": [-0.6936533058128047]}
+{"inputs": [3.914424446372882], "outputs": [-0.6981654189934725]}
+{"inputs": [3.9207076316800618], "outputs": [-0.7026499697988491]}
+{"inputs": [3.9269908169872414], "outputs": [-0.7071067811865475]}
+{"inputs": [3.933274002294421], "outputs": [-0.7115356772092852]}
+{"inputs": [3.9395571876016007], "outputs": [-0.7159364830218311]}
+{"inputs": [3.9458403729087803], "outputs": [-0.7203090248879069]}
+{"inputs": [3.95212355821596], "outputs": [-0.7246531301870467]}
+{"inputs": [3.958406743523139], "outputs": [-0.7289686274214113]}
+{"inputs": [3.964689928830319], "outputs": [-0.7332553462225598]}
+{"inputs": [3.9709731141374984], "outputs": [-0.7375131173581737]}
+{"inputs": [3.977256299444678], "outputs": [-0.7417417727387391]}
+{"inputs": [3.9835394847518577], "outputs": [-0.7459411454241821]}
+{"inputs": [3.9898226700590373], "outputs": [-0.7501110696304595]}
+{"inputs": [3.996105855366217], "outputs": [-0.7542513807361038]}
+{"inputs": [4.002389040673396], "outputs": [-0.7583619152887215]}
+{"inputs": [4.008672225980576], "outputs": [-0.7624425110114479]}
+{"inputs": [4.0149554112877555], "outputs": [-0.7664930068093496]}
+{"inputs": [4.0212385965949355], "outputs": [-0.7705132427757894]}
+{"inputs": [4.027521781902115], "outputs": [-0.7745030601987337]}
+{"inputs": [4.033804967209295], "outputs": [-0.7784623015670236]}
+{"inputs": [4.040088152516474], "outputs": [-0.7823908105765881]}
+{"inputs": [4.046371337823653], "outputs": [-0.7862884321366186]}
+{"inputs": [4.052654523130833], "outputs": [-0.7901550123756904]}
+{"inputs": [4.0589377084380125], "outputs": [-0.793990398647835]}
+{"inputs": [4.065220893745193], "outputs": [-0.7977944395385711]}
+{"inputs": [4.071504079052372], "outputs": [-0.8015669848708764]}
+{"inputs": [4.077787264359552], "outputs": [-0.8053078857111221]}
+{"inputs": [4.084070449666731], "outputs": [-0.8090169943749473]}
+{"inputs": [4.090353634973911], "outputs": [-0.8126941644330942]}
+{"inputs": [4.09663682028109], "outputs": [-0.8163392507171839]}
+{"inputs": [4.1029200055882695], "outputs": [-0.819952109325452]}
+{"inputs": [4.10920319089545], "outputs": [-0.8235325976284275]}
+{"inputs": [4.115486376202629], "outputs": [-0.8270805742745616]}
+{"inputs": [4.121769561509809], "outputs": [-0.8305958991958127]}
+{"inputs": [4.128052746816988], "outputs": [-0.834078433613171]}
+{"inputs": [4.134335932124168], "outputs": [-0.8375280400421419]}
+{"inputs": [4.140619117431347], "outputs": [-0.840944582298169]}
+{"inputs": [4.1469023027385274], "outputs": [-0.8443279255020153]}
+{"inputs": [4.153185488045707], "outputs": [-0.8476779360850832]}
+{"inputs": [4.159468673352887], "outputs": [-0.8509944817946921]}
+{"inputs": [4.165751858660066], "outputs": [-0.8542774316992952]}
+{"inputs": [4.172035043967245], "outputs": [-0.8575266561936521]}
+{"inputs": [4.178318229274425], "outputs": [-0.8607420270039438]}
+{"inputs": [4.184601414581604], "outputs": [-0.8639234171928352]}
+{"inputs": [4.1908845998887845], "outputs": [-0.8670707011644903]}
+{"inputs": [4.197167785195964], "outputs": [-0.8701837546695256]}
+{"inputs": [4.203450970503144], "outputs": [-0.8732624548099204]}
+{"inputs": [4.209734155810323], "outputs": [-0.8763066800438636]}
+{"inputs": [4.216017341117503], "outputs": [-0.8793163101905564]}
+{"inputs": [4.222300526424682], "outputs": [-0.8822912264349534]}
+{"inputs": [4.228583711731861], "outputs": [-0.8852313113324551]}
+{"inputs": [4.2348668970390415], "outputs": [-0.8881364488135446]}
+{"inputs": [4.241150082346221], "outputs": [-0.8910065241883678]}
+{"inputs": [4.247433267653401], "outputs": [-0.8938414241512639]}
+{"inputs": [4.25371645296058], "outputs": [-0.8966410367852359]}
+{"inputs": [4.25999963826776], "outputs": [-0.8994052515663712]}
+{"inputs": [4.266282823574939], "outputs": [-0.9021339593682028]}
+{"inputs": [4.272566008882119], "outputs": [-0.9048270524660198]}
+{"inputs": [4.2788491941892985], "outputs": [-0.907484424541117]}
+{"inputs": [4.285132379496478], "outputs": [-0.9101059706849955]}
+{"inputs": [4.291415564803658], "outputs": [-0.9126915874035029]}
+{"inputs": [4.297698750110837], "outputs": [-0.9152411726209175]}
+{"inputs": [4.303981935418017], "outputs": [-0.9177546256839813]}
+{"inputs": [4.310265120725196], "outputs": [-0.9202318473658704]}
+{"inputs": [4.316548306032376], "outputs": [-0.922672739870115]}
+{"inputs": [4.322831491339555], "outputs": [-0.9250772068344577]}
+{"inputs": [4.329114676646735], "outputs": [-0.9274451533346612]}
+{"inputs": [4.335397861953914], "outputs": [-0.9297764858882511]}
+{"inputs": [4.341681047261094], "outputs": [-0.9320711124582108]}
+{"inputs": [4.347964232568273], "outputs": [-0.9343289424566118]}
+{"inputs": [4.354247417875453], "outputs": [-0.9365498867481923]}
+{"inputs": [4.3605306031826325], "outputs": [-0.938733857653874]}
+{"inputs": [4.366813788489812], "outputs": [-0.9408807689542251]}
+{"inputs": [4.373096973796992], "outputs": [-0.9429905358928643]}
+{"inputs": [4.379380159104171], "outputs": [-0.9450630751798046]}
+{"inputs": [4.385663344411351], "outputs": [-0.9470983049947442]}
+{"inputs": [4.39194652971853], "outputs": [-0.9490961449902944]}
+{"inputs": [4.39822971502571], "outputs": [-0.9510565162951535]}
+{"inputs": [4.40451290033289], "outputs": [-0.9529793415172186]}
+{"inputs": [4.41079608564007], "outputs": [-0.954864544746643]}
+{"inputs": [4.417079270947249], "outputs": [-0.9567120515588303]}
+{"inputs": [4.423362456254428], "outputs": [-0.9585217890173756]}
+{"inputs": [4.429645641561608], "outputs": [-0.960293685676943]}
+{"inputs": [4.435928826868787], "outputs": [-0.9620276715860857]}
+{"inputs": [4.442212012175967], "outputs": [-0.9637236782900096]}
+{"inputs": [4.448495197483147], "outputs": [-0.9653816388332738]}
+{"inputs": [4.454778382790327], "outputs": [-0.967001487762435]}
+{"inputs": [4.461061568097506], "outputs": [-0.968583161128631]}
+{"inputs": [4.467344753404686], "outputs": [-0.9701265964901058]}
+{"inputs": [4.473627938711865], "outputs": [-0.9716317329146739]}
+{"inputs": [4.479911124019044], "outputs": [-0.9730985109821264]}
+{"inputs": [4.486194309326224], "outputs": [-0.9745268727865771]}
+{"inputs": [4.492477494633404], "outputs": [-0.9759167619387472]}
+{"inputs": [4.498760679940584], "outputs": [-0.9772681235681934]}
+{"inputs": [4.505043865247763], "outputs": [-0.978580904325472]}
+{"inputs": [4.511327050554943], "outputs": [-0.9798550523842469]}
+{"inputs": [4.517610235862122], "outputs": [-0.981090517443334]}
+{"inputs": [4.523893421169302], "outputs": [-0.9822872507286887]}
+{"inputs": [4.5301766064764815], "outputs": [-0.9834452049953296]}
+{"inputs": [4.5364597917836615], "outputs": [-0.9845643345292054]}
+{"inputs": [4.542742977090841], "outputs": [-0.9856445951489979]}
+{"inputs": [4.54902616239802], "outputs": [-0.9866859442078679]}
+{"inputs": [4.5553093477052], "outputs": [-0.9876883405951377]}
+{"inputs": [4.561592533012379], "outputs": [-0.988651744737914]}
+{"inputs": [4.567875718319559], "outputs": [-0.9895761186026509]}
+{"inputs": [4.5741589036267385], "outputs": [-0.9904614256966512]}
+{"inputs": [4.580442088933919], "outputs": [-0.9913076310695066]}
+{"inputs": [4.586725274241098], "outputs": [-0.9921147013144778]}
+{"inputs": [4.593008459548278], "outputs": [-0.9928826045698137]}
+{"inputs": [4.599291644855457], "outputs": [-0.9936113105200084]}
+{"inputs": [4.605574830162636], "outputs": [-0.9943007903969988]}
+{"inputs": [4.611858015469816], "outputs": [-0.9949510169813002]}
+{"inputs": [4.6181412007769955], "outputs": [-0.99556196460308]}
+{"inputs": [4.624424386084176], "outputs": [-0.9961336091431725]}
+{"inputs": [4.630707571391355], "outputs": [-0.9966659280340299]}
+{"inputs": [4.636990756698535], "outputs": [-0.9971589002606139]}
+{"inputs": [4.643273942005714], "outputs": [-0.9976125063612252]}
+{"inputs": [4.649557127312894], "outputs": [-0.9980267284282716]}
+{"inputs": [4.655840312620073], "outputs": [-0.998401550108975]}
+{"inputs": [4.662123497927253], "outputs": [-0.9987369566060175]}
+{"inputs": [4.668406683234433], "outputs": [-0.9990329346781247]}
+{"inputs": [4.674689868541612], "outputs": [-0.9992894726405892]}
+{"inputs": [4.680973053848792], "outputs": [-0.9995065603657316]}
+{"inputs": [4.687256239155971], "outputs": [-0.9996841892832999]}
+{"inputs": [4.693539424463151], "outputs": [-0.999822352380809]}
+{"inputs": [4.69982260977033], "outputs": [-0.9999210442038161]}
+{"inputs": [4.7061057950775105], "outputs": [-0.9999802608561371]}
+{"inputs": [4.71238898038469], "outputs": [-1.0]}
+{"inputs": [4.718672165691869], "outputs": [-0.9999802608561371]}
+{"inputs": [4.724955350999049], "outputs": [-0.9999210442038161]}
+{"inputs": [4.731238536306228], "outputs": [-0.999822352380809]}
+{"inputs": [4.737521721613408], "outputs": [-0.9996841892832999]}
+{"inputs": [4.743804906920587], "outputs": [-0.9995065603657316]}
+{"inputs": [4.7500880922277675], "outputs": [-0.9992894726405892]}
+{"inputs": [4.756371277534947], "outputs": [-0.9990329346781247]}
+{"inputs": [4.762654462842127], "outputs": [-0.9987369566060175]}
+{"inputs": [4.768937648149306], "outputs": [-0.998401550108975]}
+{"inputs": [4.775220833456485], "outputs": [-0.9980267284282716]}
+{"inputs": [4.781504018763665], "outputs": [-0.9976125063612252]}
+{"inputs": [4.7877872040708445], "outputs": [-0.9971589002606139]}
+{"inputs": [4.7940703893780245], "outputs": [-0.9966659280340299]}
+{"inputs": [4.800353574685204], "outputs": [-0.9961336091431725]}
+{"inputs": [4.806636759992384], "outputs": [-0.99556196460308]}
+{"inputs": [4.812919945299563], "outputs": [-0.9949510169813002]}
+{"inputs": [4.819203130606743], "outputs": [-0.9943007903969988]}
+{"inputs": [4.825486315913922], "outputs": [-0.9936113105200084]}
+{"inputs": [4.8317695012211015], "outputs": [-0.9928826045698137]}
+{"inputs": [4.838052686528282], "outputs": [-0.9921147013144779]}
+{"inputs": [4.844335871835461], "outputs": [-0.9913076310695066]}
+{"inputs": [4.850619057142641], "outputs": [-0.9904614256966512]}
+{"inputs": [4.85690224244982], "outputs": [-0.989576118602651]}
+{"inputs": [4.863185427757], "outputs": [-0.988651744737914]}
+{"inputs": [4.869468613064179], "outputs": [-0.9876883405951378]}
+{"inputs": [4.875751798371359], "outputs": [-0.986685944207868]}
+{"inputs": [4.882034983678539], "outputs": [-0.985644595148998]}
+{"inputs": [4.888318168985718], "outputs": [-0.9845643345292054]}
+{"inputs": [4.894601354292898], "outputs": [-0.9834452049953297]}
+{"inputs": [4.900884539600077], "outputs": [-0.9822872507286887]}
+{"inputs": [4.907167724907257], "outputs": [-0.9810905174433341]}
+{"inputs": [4.913450910214436], "outputs": [-0.979855052384247]}
+{"inputs": [4.9197340955216164], "outputs": [-0.9785809043254721]}
+{"inputs": [4.926017280828796], "outputs": [-0.9772681235681935]}
+{"inputs": [4.932300466135976], "outputs": [-0.9759167619387473]}
+{"inputs": [4.938583651443155], "outputs": [-0.9745268727865771]}
+{"inputs": [4.944866836750335], "outputs": [-0.9730985109821264]}
+{"inputs": [4.951150022057514], "outputs": [-0.971631732914674]}
+{"inputs": [4.957433207364693], "outputs": [-0.9701265964901059]}
+{"inputs": [4.9637163926718735], "outputs": [-0.9685831611286311]}
+{"inputs": [4.969999577979053], "outputs": [-0.9670014877624351]}
+{"inputs": [4.976282763286233], "outputs": [-0.9653816388332738]}
+{"inputs": [4.982565948593412], "outputs": [-0.9637236782900097]}
+{"inputs": [4.988849133900592], "outputs": [-0.9620276715860858]}
+{"inputs": [4.995132319207771], "outputs": [-0.9602936856769431]}
+{"inputs": [5.001415504514951], "outputs": [-0.9585217890173757]}
+{"inputs": [5.0076986898221305], "outputs": [-0.9567120515588304]}
+{"inputs": [5.01398187512931], "outputs": [-0.9548645447466431]}
+{"inputs": [5.02026506043649], "outputs": [-0.9529793415172187]}
+{"inputs": [5.026548245743669], "outputs": [-0.9510565162951536]}
+{"inputs": [5.032831431050849], "outputs": [-0.9490961449902945]}
+{"inputs": [5.039114616358028], "outputs": [-0.9470983049947443]}
+{"inputs": [5.045397801665208], "outputs": [-0.9450630751798047]}
+{"inputs": [5.0516809869723875], "outputs": [-0.9429905358928644]}
+{"inputs": [5.057964172279568], "outputs": [-0.9408807689542253]}
+{"inputs": [5.064247357586747], "outputs": [-0.9387338576538741]}
+{"inputs": [5.070530542893926], "outputs": [-0.9365498867481924]}
+{"inputs": [5.076813728201106], "outputs": [-0.9343289424566119]}
+{"inputs": [5.083096913508285], "outputs": [-0.9320711124582111]}
+{"inputs": [5.089380098815465], "outputs": [-0.9297764858882512]}
+{"inputs": [5.095663284122645], "outputs": [-0.9274451533346614]}
+{"inputs": [5.101946469429825], "outputs": [-0.9250772068344579]}
+{"inputs": [5.108229654737003], "outputs": [-0.9226727398701151]}
+{"inputs": [5.114512840044183], "outputs": [-0.9202318473658705]}
+{"inputs": [5.120796025351362], "outputs": [-0.9177546256839815]}
+{"inputs": [5.127079210658542], "outputs": [-0.9152411726209176]}
+{"inputs": [5.1333623959657215], "outputs": [-0.9126915874035031]}
+{"inputs": [5.139645581272902], "outputs": [-0.9101059706849958]}
+{"inputs": [5.145928766580081], "outputs": [-0.9074844245411171]}
+{"inputs": [5.15221195188726], "outputs": [-0.9048270524660199]}
+{"inputs": [5.15849513719444], "outputs": [-0.9021339593682031]}
+{"inputs": [5.164778322501619], "outputs": [-0.8994052515663714]}
+{"inputs": [5.171061507808799], "outputs": [-0.896641036785236]}
+{"inputs": [5.177344693115979], "outputs": [-0.8938414241512641]}
+{"inputs": [5.183627878423159], "outputs": [-0.891006524188368]}
+{"inputs": [5.189911063730338], "outputs": [-0.8881364488135448]}
+{"inputs": [5.196194249037518], "outputs": [-0.8852313113324553]}
+{"inputs": [5.202477434344697], "outputs": [-0.8822912264349535]}
+{"inputs": [5.208760619651876], "outputs": [-0.8793163101905567]}
+{"inputs": [5.215043804959056], "outputs": [-0.8763066800438638]}
+{"inputs": [5.221326990266236], "outputs": [-0.8732624548099205]}
+{"inputs": [5.227610175573416], "outputs": [-0.8701837546695258]}
+{"inputs": [5.233893360880595], "outputs": [-0.8670707011644904]}
+{"inputs": [5.240176546187775], "outputs": [-0.8639234171928354]}
+{"inputs": [5.246459731494954], "outputs": [-0.8607420270039439]}
+{"inputs": [5.252742916802134], "outputs": [-0.8575266561936523]}
+{"inputs": [5.259026102109313], "outputs": [-0.8542774316992954]}
+{"inputs": [5.265309287416493], "outputs": [-0.8509944817946923]}
+{"inputs": [5.271592472723673], "outputs": [-0.8476779360850835]}
+{"inputs": [5.277875658030852], "outputs": [-0.8443279255020155]}
+{"inputs": [5.284158843338032], "outputs": [-0.8409445822981693]}
+{"inputs": [5.290442028645211], "outputs": [-0.8375280400421421]}
+{"inputs": [5.296725213952391], "outputs": [-0.8340784336131712]}
+{"inputs": [5.3030083992595705], "outputs": [-0.8305958991958129]}
+{"inputs": [5.3092915845667505], "outputs": [-0.8270805742745618]}
+{"inputs": [5.31557476987393], "outputs": [-0.8235325976284277]}
+{"inputs": [5.32185795518111], "outputs": [-0.8199521093254523]}
+{"inputs": [5.328141140488289], "outputs": [-0.8163392507171842]}
+{"inputs": [5.334424325795468], "outputs": [-0.8126941644330944]}
+{"inputs": [5.340707511102648], "outputs": [-0.8090169943749476]}
+{"inputs": [5.3469906964098275], "outputs": [-0.8053078857111223]}
+{"inputs": [5.353273881717008], "outputs": [-0.8015669848708766]}
+{"inputs": [5.359557067024187], "outputs": [-0.7977944395385713]}
+{"inputs": [5.365840252331367], "outputs": [-0.7939903986478354]}
+{"inputs": [5.372123437638546], "outputs": [-0.7901550123756906]}
+{"inputs": [5.378406622945726], "outputs": [-0.7862884321366188]}
+{"inputs": [5.384689808252905], "outputs": [-0.7823908105765883]}
+{"inputs": [5.3909729935600845], "outputs": [-0.7784623015670239]}
+{"inputs": [5.397256178867265], "outputs": [-0.7745030601987339]}
+{"inputs": [5.403539364174444], "outputs": [-0.7705132427757896]}
+{"inputs": [5.409822549481624], "outputs": [-0.7664930068093498]}
+{"inputs": [5.416105734788803], "outputs": [-0.7624425110114482]}
+{"inputs": [5.422388920095983], "outputs": [-0.7583619152887218]}
+{"inputs": [5.428672105403162], "outputs": [-0.754251380736104]}
+{"inputs": [5.4349552907103424], "outputs": [-0.7501110696304595]}
+{"inputs": [5.441238476017522], "outputs": [-0.7459411454241823]}
+{"inputs": [5.447521661324701], "outputs": [-0.7417417727387396]}
+{"inputs": [5.453804846631881], "outputs": [-0.737513117358174]}
+{"inputs": [5.46008803193906], "outputs": [-0.7332553462225604]}
+{"inputs": [5.46637121724624], "outputs": [-0.7289686274214116]}
+{"inputs": [5.472654402553419], "outputs": [-0.7246531301870469]}
+{"inputs": [5.4789375878605995], "outputs": [-0.7203090248879068]}
+{"inputs": [5.485220773167779], "outputs": [-0.7159364830218313]}
+{"inputs": [5.491503958474959], "outputs": [-0.7115356772092852]}
+{"inputs": [5.497787143782138], "outputs": [-0.7071067811865477]}
+{"inputs": [5.504070329089317], "outputs": [-0.7026499697988496]}
+{"inputs": [5.510353514396497], "outputs": [-0.6981654189934727]}
+{"inputs": [5.516636699703676], "outputs": [-0.6936533058128054]}
+{"inputs": [5.5229198850108565], "outputs": [-0.6891138083873485]}
+{"inputs": [5.529203070318036], "outputs": [-0.684547105928689]}
+{"inputs": [5.535486255625216], "outputs": [-0.6799533787224191]}
+{"inputs": [5.541769440932395], "outputs": [-0.6753328081210246]}
+{"inputs": [5.548052626239575], "outputs": [-0.6706855765367199]}
+{"inputs": [5.554335811546754], "outputs": [-0.6660118674342518]}
+{"inputs": [5.5606189968539335], "outputs": [-0.6613118653236523]}
+{"inputs": [5.5669021821611135], "outputs": [-0.6565857557529565]}
+{"inputs": [5.573185367468293], "outputs": [-0.6518337253008791]}
+{"inputs": [5.579468552775473], "outputs": [-0.6470559615694443]}
+{"inputs": [5.585751738082652], "outputs": [-0.6422526531765846]}
+{"inputs": [5.592034923389832], "outputs": [-0.6374239897486896]}
+{"inputs": [5.598318108697011], "outputs": [-0.6325701619131247]}
+{"inputs": [5.604601294004191], "outputs": [-0.6276913612907002]}
+{"inputs": [5.610884479311371], "outputs": [-0.6227877804881126]}
+{"inputs": [5.61716766461855], "outputs": [-0.6178596130903348]}
+{"inputs": [5.62345084992573], "outputs": [-0.6129070536529765]}
+{"inputs": [5.629734035232909], "outputs": [-0.6079302976946057]}
+{"inputs": [5.636017220540089], "outputs": [-0.6029295416890247]}
+{"inputs": [5.642300405847268], "outputs": [-0.5979049830575192]}
+{"inputs": [5.648583591154448], "outputs": [-0.5928568201610591]}
+{"inputs": [5.654866776461628], "outputs": [-0.5877852522924734]}
+{"inputs": [5.661149961768808], "outputs": [-0.5826904796685758]}
+{"inputs": [5.667433147075987], "outputs": [-0.5775727034222677]}
+{"inputs": [5.673716332383166], "outputs": [-0.5724321255945913]}
+{"inputs": [5.679999517690346], "outputs": [-0.5672689491267565]}
+{"inputs": [5.686282702997525], "outputs": [-0.5620833778521309]}
+{"inputs": [5.6925658883047054], "outputs": [-0.556875616488188]}
+{"inputs": [5.698849073611885], "outputs": [-0.5516458706284305]}
+{"inputs": [5.705132258919065], "outputs": [-0.5463943467342689]}
+{"inputs": [5.711415444226244], "outputs": [-0.541121252126876]}
+{"inputs": [5.717698629533424], "outputs": [-0.5358267949789963]}
+{"inputs": [5.723981814840603], "outputs": [-0.5305111843067342]}
+{"inputs": [5.730265000147783], "outputs": [-0.5251746299612954]}
+{"inputs": [5.7365481854549625], "outputs": [-0.5198173426207094]}
+{"inputs": [5.742831370762142], "outputs": [-0.5144395337815068]}
+{"inputs": [5.749114556069322], "outputs": [-0.5090414157503712]}
+{"inputs": [5.755397741376501], "outputs": [-0.503623201635761]}
+{"inputs": [5.761680926683681], "outputs": [-0.4981851053394906]}
+{"inputs": [5.76796411199086], "outputs": [-0.4927273415482917]}
+{"inputs": [5.77424729729804], "outputs": [-0.487250125725332]}
+{"inputs": [5.7805304826052195], "outputs": [-0.4817536741017153]}
+{"inputs": [5.7868136679124], "outputs": [-0.47623820366793873]}
+{"inputs": [5.793096853219579], "outputs": [-0.4707039321653325]}
+{"inputs": [5.799380038526758], "outputs": [-0.46515107807745865]}
+{"inputs": [5.805663223833938], "outputs": [-0.4595798606214877]}
+{"inputs": [5.811946409141117], "outputs": [-0.45399049973954697]}
+{"inputs": [5.818229594448297], "outputs": [-0.448383216090032]}
+{"inputs": [5.8245127797554765], "outputs": [-0.44275823103890166]}
+{"inputs": [5.830795965062657], "outputs": [-0.43711576665093255]}
+{"inputs": [5.837079150369836], "outputs": [-0.43145604568095897]}
+{"inputs": [5.843362335677016], "outputs": [-0.4257792915650722]}
+{"inputs": [5.849645520984195], "outputs": [-0.4200857284118062]}
+{"inputs": [5.855928706291374], "outputs": [-0.4143755809932844]}
+{"inputs": [5.862211891598554], "outputs": [-0.40864907473634887]}
+{"inputs": [5.868495076905734], "outputs": [-0.40290643571366286]}
+{"inputs": [5.874778262212914], "outputs": [-0.39714789063478034]}
+{"inputs": [5.881061447520093], "outputs": [-0.3913736668372025]}
+{"inputs": [5.887344632827273], "outputs": [-0.38558399227739615]}
+{"inputs": [5.893627818134451], "outputs": [-0.3797790955218019]}
+{"inputs": [5.899911003441631], "outputs": [-0.3739592057378008]}
+{"inputs": [5.9061941887488105], "outputs": [-0.3681245526846787]}
+{"inputs": [5.912477374055991], "outputs": [-0.3622753667045459]}
+{"inputs": [5.91876055936317], "outputs": [-0.3564118787132513]}
+{"inputs": [5.92504374467035], "outputs": [-0.3505343201912592]}
+{"inputs": [5.931326929977529], "outputs": [-0.34464292317451756]}
+{"inputs": [5.937610115284708], "outputs": [-0.33873792024529226]}
+{"inputs": [5.943893300591888], "outputs": [-0.33281954452298707]}
+{"inputs": [5.950176485899068], "outputs": [-0.3268880296549433]}
+{"inputs": [5.956459671206248], "outputs": [-0.3209436098072098]}
+{"inputs": [5.962742856513427], "outputs": [-0.3149865196553055]}
+{"inputs": [5.969026041820607], "outputs": [-0.3090169943749477]}
+{"inputs": [5.975309227127786], "outputs": [-0.30303526963277455]}
+{"inputs": [5.981592412434966], "outputs": [-0.29704158157703503]}
+{"inputs": [5.987875597742145], "outputs": [-0.2910361668282723]}
+{"inputs": [5.994158783049325], "outputs": [-0.285019262469977]}
+{"inputs": [6.000441968356505], "outputs": [-0.27899110603922966]}
+{"inputs": [6.006725153663684], "outputs": [-0.272951935517326]}
+{"inputs": [6.013008338970864], "outputs": [-0.26690198932037584]}
+{"inputs": [6.019291524278043], "outputs": [-0.2608415062898976]}
+{"inputs": [6.025574709585223], "outputs": [-0.2547707256833824]}
+{"inputs": [6.031857894892402], "outputs": [-0.24868988716485535]}
+{"inputs": [6.0381410801995825], "outputs": [-0.24259923079540752]}
+{"inputs": [6.044424265506762], "outputs": [-0.23649899702372515]}
+{"inputs": [6.050707450813941], "outputs": [-0.23038942667659143]}
+{"inputs": [6.056990636121121], "outputs": [-0.22427076094938156]}
+{"inputs": [6.0632738214283], "outputs": [-0.2181432413965433]}
+{"inputs": [6.06955700673548], "outputs": [-0.2120071099220549]}
+{"inputs": [6.0758401920426595], "outputs": [-0.20586260876988197]}
+{"inputs": [6.0821233773498395], "outputs": [-0.1997099805144072]}
+{"inputs": [6.088406562657019], "outputs": [-0.19354946805086082]}
+{"inputs": [6.094689747964199], "outputs": [-0.18738131458572468]}
+{"inputs": [6.100972933271378], "outputs": [-0.1812057636271378]}
+{"inputs": [6.107256118578558], "outputs": [-0.175023058975276]}
+{"inputs": [6.113539303885737], "outputs": [-0.1688334447127342]}
+{"inputs": [6.1198224891929165], "outputs": [-0.16263716519488433]}
+{"inputs": [6.126105674500097], "outputs": [-0.1564344650402311]}
+{"inputs": [6.132388859807276], "outputs": [-0.15022558912075767]}
+{"inputs": [6.138672045114456], "outputs": [-0.1440107825522523]}
+{"inputs": [6.144955230421635], "outputs": [-0.13779029068463858]}
+{"inputs": [6.151238415728815], "outputs": [-0.13156435909228253]}
+{"inputs": [6.157521601035994], "outputs": [-0.12533323356430465]}
+{"inputs": [6.163804786343174], "outputs": [-0.11909716009486966]}
+{"inputs": [6.170087971650354], "outputs": [-0.112856384873482]}
+{"inputs": [6.176371156957533], "outputs": [-0.1066111542752606]}
+{"inputs": [6.182654342264713], "outputs": [-0.10036171485121509]}
+{"inputs": [6.188937527571892], "outputs": [-0.09410831331851491]}
+{"inputs": [6.195220712879072], "outputs": [-0.08785119655074328]}
+{"inputs": [6.201503898186251], "outputs": [-0.08159061156815804]}
+{"inputs": [6.2077870834934314], "outputs": [-0.07532680552793272]}
+{"inputs": [6.214070268800611], "outputs": [-0.06906002571440618]}
+{"inputs": [6.220353454107791], "outputs": [-0.06279051952931326]}
+{"inputs": [6.22663663941497], "outputs": [-0.056518534482024804]}
+{"inputs": [6.232919824722149], "outputs": [-0.05024431817977022]}
+{"inputs": [6.239203010029329], "outputs": [-0.043968118317865075]}
+{"inputs": [6.245486195336508], "outputs": [-0.0376901826699351]}
+{"inputs": [6.2517693806436885], "outputs": [-0.03141075907812836]}
+{"inputs": [6.258052565950868], "outputs": [-0.025130095443337937]}
+{"inputs": [6.264335751258048], "outputs": [-0.018848439715408137]}
+{"inputs": [6.270618936565227], "outputs": [-0.01256603988335296]}
+{"inputs": [6.276902121872407], "outputs": [-0.006283143965558805]}

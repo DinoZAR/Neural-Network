@@ -13,10 +13,10 @@ type TrainTest struct {
 	Outputs []float64 `json: outputs`
 }
 
-func LoadTrainingSet(file string) []*TrainTest {
+func LoadTrainingSet(trainingSetFile string) []*TrainTest {
 	trainTests := make([]*TrainTest, 0)
 
-	f, err := os.Open("tests.txt")
+	f, err := os.Open(trainingSetFile)
 	if err != nil {
 		fmt.Printf("Error loading tests file: %v", err)
 		return nil
@@ -33,11 +33,13 @@ func LoadTrainingSet(file string) []*TrainTest {
 	return trainTests
 }
 
-func Train(network *Network, testFile string, learningRate float64, epochs int) {
+func Train(network *Network, trainingSetFile string, learningRate float64, epochs int) {
 
-	trainingSet := LoadTrainingSet(testFile)
+	trainingSet := LoadTrainingSet(trainingSetFile)
 
 	for e := 0; e < epochs; e++ {
+
+		fmt.Printf("Running epoch %v...\n", e)
 
 		// Shuffle my training inputs
 		for i := range trainingSet {
@@ -54,15 +56,49 @@ func Train(network *Network, testFile string, learningRate float64, epochs int) 
 	}
 }
 
+func ValidateAndReport(network *Network, validationSetFile string) {
+	validSet := LoadTrainingSet(validationSetFile)
+
+	for _, test := range validSet {
+		network.Process(test.Inputs)
+		fmt.Println("--------")
+		fmt.Printf("Inputs: %v\n", test.Inputs)
+		for i, targetOutput := range test.Outputs {
+			fmt.Printf("%v) Expected: %v, Actual: %v\n", i, targetOutput, network.Output(network.OutputNodeID(i)))
+		}
+	}
+}
+
 /**
  * Starts up the server
  */
 func main() {
 
-	// Create the network
-	network := CreateNetwork(2, 2, []int{10})
+	rand.Seed(20)
 
-	Train(network, "tests.txt", 0.01, 20)
+	// Create the network
+	network := CreateNetwork(3, 3, []int{3, 2})
+
+	for i := 0; i < 10000; i++ {
+		network.SetTargetOutputs([]float64{0.2345, 0.5678, 0.98123})
+		network.Process([]float64{0.12494, -0.892349, -0.12341})
+		network.BackPropagate(0.2)
+	}
+
+	network.Process([]float64{0.12494, -0.892349, -0.12341})
+	fmt.Printf("Final cost: %v\n", network.Output(network.costNodeID))
+	for i := 0; i < network.outputs; i++ {
+		fmt.Printf("-> %v) %v\n", i, network.Output(network.OutputNodeID(i)))
+	}
+
+	// network.DumpGraph("before_graph.dot")
+
+	// fmt.Println("Training the network...")
+	// Train(network, "tests.txt", 0.1, 10)
+
+	// fmt.Println("Validating it...")
+	// ValidateAndReport(network, "tests.txt")
+	// network.DumpGraph("after_graph.dot")
 
 	fmt.Println("Done!")
 }

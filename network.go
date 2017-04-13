@@ -1,9 +1,9 @@
 package main
 
 import (
-	"bytes"
 	"fmt"
 	"math/rand"
+	"os"
 	"sync"
 )
 
@@ -31,6 +31,7 @@ func (n *Network) FlushTempData() {
 	for _, node := range n.nodes {
 		node.inputVals = make(map[int]float64)
 	}
+	n.outputVals = make(map[int]float64)
 }
 
 func (n *Network) Node(nodeID int) *NetworkNode {
@@ -57,6 +58,57 @@ func (n *Network) OutputNodeID(outputIdx int) int {
 	return n.outputStart + outputIdx
 }
 
+func (n *Network) DumpGraph(outFile string) {
+
+	f, err := os.Create(outFile)
+	if err != nil {
+		fmt.Printf("Error creating file: %v", err)
+	} else {
+
+		f.WriteString("digraph G {\n")
+		for _, node := range n.nodes {
+			for _, outputID := range node.outputs {
+
+				// Get name of node, and other info relating
+				fromName, fromDetails := n.DumpNodeDetails(node.id)
+				toName, _ := n.DumpNodeDetails(outputID)
+
+				fmt.Fprintf(f, "\t\"%v\" [label = \"%v\\n%v\"];\n", fromName, fromName, fromDetails)
+				fmt.Fprintf(f, "\t\"%v\" -> \"%v\";\n", fromName, toName)
+			}
+		}
+		f.WriteString("}")
+	}
+	f.Close()
+
+}
+
+func (network *Network) DumpNodeDetails(nodeID int) (name, description string) {
+
+	node := network.Node(nodeID)
+
+	switch t := node.node.(type) {
+	case *NeuronNode:
+		n := node.node.(*NeuronNode)
+		name = fmt.Sprintf("neuron(%v)", nodeID)
+		description = fmt.Sprintf("output: %v, bias: %v", network.Output(nodeID), n.bias)
+		return
+	case *WeightedNode:
+		n := node.node.(*WeightedNode)
+		name = fmt.Sprintf("weighted(%v)", nodeID)
+		description = fmt.Sprintf("output: %v, weight: %v", network.Output(nodeID), n.weight)
+		return
+	case *CostNode:
+		name = fmt.Sprintf("cost(%v)", nodeID)
+		description = "stuff"
+		return
+	default:
+		fmt.Printf("unexpected type %T\n", t)
+		name = "unknown"
+		return
+	}
+}
+
 func CreateNetwork(inputs int, outputs int, hiddenLayers []int) *Network {
 
 	nodes := make(map[int]*NetworkNode)
@@ -65,7 +117,7 @@ func CreateNetwork(inputs int, outputs int, hiddenLayers []int) *Network {
 	// Input nodes
 	for i := 0; i < inputs; i++ {
 		net := WrapNode(&idGen, &NeuronNode{
-			bias:        rand.Float64()*2 - 1,
+			bias:        rand.Float64()*0.5 + 0.5,
 			inputSum:    0,
 			savedOutput: 0,
 		})
@@ -81,7 +133,7 @@ func CreateNetwork(inputs int, outputs int, hiddenLayers []int) *Network {
 		hiddenStart := idGen + 1
 		for i := 0; i < numHidden; i++ {
 			net := WrapNode(&idGen, &NeuronNode{
-				bias:        rand.Float64()*2 - 1,
+				bias:        rand.Float64()*0.5 + 0.5,
 				inputSum:    0,
 				savedOutput: 0,
 			})
@@ -92,7 +144,7 @@ func CreateNetwork(inputs int, outputs int, hiddenLayers []int) *Network {
 		// Create the weighted connections between previous layer and this one
 		for i := 0; i < (lastEnd - lastStart + 1); i++ {
 			for j := 0; j < numHidden; j++ {
-				net := WrapNode(&idGen, &WeightedNode{rand.Float64()*2 - 1})
+				net := WrapNode(&idGen, &WeightedNode{rand.Float64()*0.5 + 0.5})
 				nodes[idGen] = net
 				Connect(nodes[lastStart+i], nodes[idGen])   // to previous layer
 				Connect(nodes[idGen], nodes[hiddenStart+j]) // to this layer
@@ -108,7 +160,7 @@ func CreateNetwork(inputs int, outputs int, hiddenLayers []int) *Network {
 	outputStart := idGen + 1
 	for i := 0; i < outputs; i++ {
 		net := WrapNode(&idGen, &NeuronNode{
-			bias:        rand.Float64()*2 - 1,
+			bias:        rand.Float64()*0.5 + 0.5,
 			inputSum:    0,
 			savedOutput: 0,
 		})
@@ -118,7 +170,7 @@ func CreateNetwork(inputs int, outputs int, hiddenLayers []int) *Network {
 	// And their connections to last layer in hidden layer
 	for i := 0; i < (lastEnd - lastStart + 1); i++ {
 		for j := 0; j < outputs; j++ {
-			net := WrapNode(&idGen, &WeightedNode{rand.Float64()*2 - 1})
+			net := WrapNode(&idGen, &WeightedNode{rand.Float64()*0.5 + 0.5})
 			nodes[idGen] = net
 			Connect(nodes[lastStart+i], nodes[idGen])
 			Connect(nodes[idGen], nodes[outputStart+j])
@@ -161,18 +213,4 @@ func WrapNode(idGen *int, node Feedable) *NetworkNode {
 func Connect(leftNode, rightNode *NetworkNode) {
 	leftNode.outputs = append(leftNode.outputs, rightNode.id)
 	rightNode.inputs = append(rightNode.inputs, leftNode.id)
-}
-
-func (network *Network) String() string {
-	var buff bytes.Buffer
-
-	// Top-level stuff
-	buff.WriteString(fmt.Sprintf("{inputs: %v, outputs: %v, outputStart: %v, costNodeID: %v}\n", network.inputs, network.outputs, network.outputStart, network.costNodeID))
-
-	// Now the actual nodes
-	for id, node := range network.nodes {
-		buff.WriteString(fmt.Sprintf("-> id: %v, node: %v\n", id, node))
-	}
-
-	return buff.String()
 }
